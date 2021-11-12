@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a file created in laptop of the company
+=======
+this a another file to work on
+>>>>>>> SDN
